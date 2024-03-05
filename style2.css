@@ -1,0 +1,117 @@
+#prodetails .single-pro-image{
+    width: 30%;
+    margin-right: 50px
+}
+#prodetails{
+    margin: 100px;
+    margin-top: 150px;
+}
+.small-img-group{
+    display: flex;
+    justify-content: space-between;
+}
+.small-img-col{
+    flex: 24%;
+    cursor: pointer;
+}
+.small-img-group .single-pro-details{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    width: 190px;
+    height: 30px;
+    background-color: black;
+    color: #fff;
+    border-radius: 8px;
+    border: black;
+}
+select{
+    width: 200px;
+    height: 25px;
+    text-align: center;
+}
+.h1{
+    font-family: "le-monde-livre-std", serif;
+    
+}
+.h6{
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+.h2{
+    padding-right: 10px;
+    margin-right: 0;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+}
+.h66{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    font-weight: normal;
+    margin-bottom: 5px;
+    color: #AE7867;
+}
+.h666{
+    font-weight: bolder;
+}
+.setting-instructions-link-text{
+    color: black;
+    cursor: pointer;
+
+}
+.hr{
+  font-weight: thin;
+}
+#prodetails2 h2{
+    font-weight: bolder;
+    font-style: sans-serif;
+    margin: 50px;
+}
+
+.details{
+    margin: 50px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.model{
+    width: 500px;
+}
+.model h4{
+    font-weight: bold;
+}
+.model h6{
+    font-weight: 400;
+}
+.brand-type{
+    width: 500px;
+}
+.brand-type h4{
+    font-weight: bold;
+}
+.brand-type h6{
+    font-weight: 400;
+}
+.additional-function {
+    width: 500px;
+}
+.additional-function h4{
+    font-weight: bold;
+}
+.additional-function h6{
+    font-weight: 400;
+}
+.btn {
+    background-color: #fff;
+    color: black;
+    width: 500px;
+}
